@@ -7,19 +7,17 @@ const FrameComponent6: FunctionComponent = () => {
         <div className="w-[1512px] h-full absolute !m-[0] top-[0px] right-[-72px] bottom-[0px] bg-darkgreen" />
         <div className="w-[946px] flex flex-col items-start justify-start gap-[10px] max-w-full">
           <h1 className="m-0 self-stretch relative text-inherit tracking-[0.1px] leading-[79.8px] font-bold font-inherit z-[1] mq800:text-27xl mq800:leading-[64px] mq450:text-15xl mq450:leading-[48px]">
-            Designing Dreams, Crafting Brands
+          Your Trusted Partner for Web development.
           </h1>
           <div className="w-[826px] relative text-lgi leading-[28.5px] font-light flex items-center max-w-full z-[1]">
-            Teams within rapidly growing enterprises rely on our services to
-            efficiently produce top-notch graphic designs at any scale. Schedule
-            a call today to unlock access to your dedicated design team.
+          We work with ambitious brands to ideate, design & build million-dollar businesses powered by beautifully designed and engineered software and technological solutions.
           </div>
         </div>
         <div className="w-[591px] flex flex-row flex-wrap items-start justify-start gap-[8px] max-w-full">
           <div className="flex-1 rounded bg-ghostwhite-200 box-border flex flex-row items-start justify-start py-[19px] px-4 min-w-[273px] max-w-full z-[1] border-[1px] border-solid border-gray-300">
             <input
               className="w-full [border:none] [outline:none] bg-[transparent] h-4 flex-1 overflow-hidden flex flex-row items-start justify-start pt-0 px-0 pb-0 box-border font-poppins font-semibold text-sm text-dimgray-200 min-w-[231px] max-w-full"
-              placeholder="Your work email"
+              placeholder="Your email"
               type="text"
             />
           </div>

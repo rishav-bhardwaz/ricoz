@@ -66,8 +66,7 @@ const Div2: FunctionComponent<Div2Type> = ({
             </div>
           </div>
           <div className="self-stretch relative text-base leading-[22.86px] font-poppins text-gray-100">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-            eiusmod tempor incididunt ul.
+          Best Technological Solutions for Your Business
           </div>
         </div>
       </div>

@@ -13,9 +13,7 @@ const FrameComponent7: FunctionComponent = () => {
               </h2>
             </div>
             <div className="self-stretch relative text-base leading-[28.8px] font-poppins text-gray-100">
-              Pallamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-              aute irure dolor in reprehenderit in voluptate velit esse cillum
-              dolore eu fugiat nulla pariatur.
+            Services We Deliver & Help You Implement For Success
             </div>
           </div>
         </div>

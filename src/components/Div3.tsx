@@ -33,9 +33,13 @@ const Div3: FunctionComponent<Div3Type> = ({
         >
           Contact
         </div>
-        <div className="h-4 absolute !m-[0] right-[-16px] bottom-[33px] leading-[16px] font-inter inline-block">
-          
+        <div
+          className="relative leading-[19px] inline-block min-w-[57px] cursor-pointer"
+          onClick={onContactTextClick}
+        >
+          Book a free consultaion
         </div>
+
       </nav>
     </header>
   );

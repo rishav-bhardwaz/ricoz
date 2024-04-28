@@ -7,7 +7,7 @@ const FrameComponent5: FunctionComponent = () => {
       <div className="w-[1170px] flex flex-row flex-wrap items-start justify-center pt-[15px] px-[15px] pb-0 box-border gap-[30px] max-w-full">
         <Div2
           consultencypng="/consultencypng@2x.png"
-          businessConsultancy="Business Consultancy"
+          businessConsultancy="SaaS Development"
         />
         <Div2
           consultencypng="/busisness-growpng@2x.png"

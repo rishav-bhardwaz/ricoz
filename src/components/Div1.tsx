@@ -87,9 +87,6 @@ const Div1: FunctionComponent<Div1Type> = ({
             className="self-stretch flex flex-row items-start justify-center py-0 pr-5 pl-[21px] mt-[-1.9px] text-darkslategray-300"
             style={frameDiv2Style}
           >
-            <div className="w-[89px] relative leading-[23px] capitalize flex items-center justify-center min-w-[89px] whitespace-nowrap">
-              learn more
-            </div>
           </div>
         </div>
       </div>

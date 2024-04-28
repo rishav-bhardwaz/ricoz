@@ -11,15 +11,11 @@ const FrameComponent4: FunctionComponent = () => {
             </h2>
             <div className="self-stretch flex flex-col items-start justify-start gap-[31.9px] text-base text-gray-100 font-poppins mq800:gap-[16px]">
               <div className="self-stretch relative leading-[27.2px]">
-                About Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                sed do eiusmod tempor incididunt ut labore et dolore magna
-                aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                aute irure dolor in reprehenderit in voluptate velit esse.
+              At the heart of Ricoz lies a commitment to excellence and a passion for technological advancement. We serve as your trusted gateway to the ever-evolving world of technology, simplifying complex landscapes and presenting a curated collection of insights, products, and services.
               </div>
               <button className="cursor-pointer py-[18px] pr-[38px] pl-[40.2px] bg-darkslategray-300 w-[185px] box-border flex flex-row items-start justify-start whitespace-nowrap border-[1px] border-solid border-darkslategray-300 hover:bg-dimgray-300 hover:box-border hover:border-[1px] hover:border-solid hover:border-dimgray-300">
                 <div className="flex-1 relative text-sm tracking-[1.2px] leading-[16px] uppercase font-roboto text-white text-center inline-block min-w-[104.8px]">
-                  learn more
+                  Get In Touch
                 </div>
               </button>
             </div>

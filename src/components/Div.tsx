@@ -53,7 +53,7 @@ const Div: FunctionComponent<DivType> = ({
         </div>
         <div className="self-stretch flex flex-row items-start justify-center py-0 pr-5 pl-[21px] text-darkslategray-300">
           <div className="w-[89px] relative leading-[23px] capitalize flex items-center justify-center min-w-[89px] whitespace-nowrap">
-            learn more
+
           </div>
         </div>
       </div>

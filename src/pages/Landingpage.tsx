@@ -37,10 +37,8 @@ const Landingpage: FunctionComponent = () => {
               what we do
             </h2>
           </div>
-          <div className="self-stretch relative text-base leading-[28.8px] font-poppins text-gray-100">
-            Pallamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-            irure dolor in reprehenderit in voluptate velit esse cillum dolore
-            eu fugiat nulla pariatur.
+          <div className="self-stretch relative text-base leading-[32px] font-poppins text-gray-100">
+          We work with ambitious brands to ideate, design & build million-dollar businesses powered by beautifully designed and engineered software and technological solutions.
           </div>
         </div>
       </section>

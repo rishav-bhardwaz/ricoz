@@ -27,6 +27,9 @@ const Section2: FunctionComponent = () => {
           <div className="relative leading-[16px] capitalize inline-block min-w-[70px]">
             Contact us
           </div>
+          <div className="relative leading-[16px] capitalize inline-block min-w-[38px]">
+            Book a free consultaion
+          </div>
         </div>
       </div>
       <DataFlowController ourVisionMargin="unset" ourNewsletterMargin="unset" />

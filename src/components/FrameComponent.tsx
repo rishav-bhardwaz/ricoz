@@ -10,7 +10,7 @@ const FrameComponent: FunctionComponent = () => {
               Our Finished Projects
             </h2>
             <div className="w-[378.9px] relative text-base leading-[22.86px] font-poppins text-gray-100 flex items-center max-w-full">
-              Pallamco laboris nisi ut aliquip ex ea commodo consequat.
+            Services We Deliver & Help You Implement For Success
             </div>
           </div>
           <div className="self-stretch flex flex-row items-start justify-start max-w-full">

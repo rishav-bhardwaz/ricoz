@@ -8,9 +8,7 @@ const Section1: FunctionComponent = () => {
       </h2>
       <div className="w-[1140px] overflow-hidden flex flex-col items-end justify-end pt-[38px] px-[15.6px] pb-[37.8px] box-border relative gap-[26.6px] min-h-[496px] max-w-full z-[1] text-5xl text-gray-100 font-poppins">
         <h3 className="m-0 self-stretch relative text-inherit tracking-[-0.5px] leading-[34.29px] font-normal font-inherit mq450:text-lgi mq450:leading-[27px]">
-          Lorem ipsum dolor sit amet conse adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-          veniam..
+        Ricoz company has been the best for me in managing and implementing financial software they have worked there in understanding customer UX and they delivered a user-friendly interface. Great job Ricoz!
         </h3>
         <div className="self-stretch flex flex-row items-start justify-center py-0 px-5 text-darkslategray-300">
           <div className="w-[165px] flex flex-col items-start justify-start gap-[8.4px]">
@@ -34,9 +32,6 @@ const Section1: FunctionComponent = () => {
           <div className="self-stretch flex-1 flex flex-row items-start justify-start pt-[100px] px-0 pb-0 box-border max-w-full z-[1]">
             <div className="self-stretch flex-1 flex flex-row items-start justify-start py-[58px] px-0 box-border max-w-full">
               <div className="h-10 w-[1179.2px] flex flex-row items-start justify-start max-w-full">
-                <h1 className="m-0 self-stretch w-10 relative text-inherit leading-[40px] font-normal font-inherit flex items-center justify-center mq800:text-13xl mq800:leading-[32px] mq450:text-5xl mq450:leading-[24px]">
-                  
-                </h1>
               </div>
             </div>
           </div>

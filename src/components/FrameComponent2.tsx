@@ -14,17 +14,10 @@ const FrameComponent2: FunctionComponent = () => {
           service2png="/service5png@2x.png"
           busisnessConsultency="expert advisers"
           loremIpsumDoloDolorInInVo="Lorem ipsum dolo dolor in in voluptate velit esse cillum dolore. epteur sint oat cupidatat"
-          propWidth="63.2px"
-          propGap="21.4px"
-          propWidth1="171px"
-          propGap1="11.1px"
-          propMarginTop="unset"
         />
         <Div
           service4png="/service6png@2x.png"
           riskManagement="24/7 customer support"
-          propWidth="59.3px"
-          propWidth1="250px"
         />
       </div>
     </section>
